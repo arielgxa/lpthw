@@ -30,3 +30,5 @@ amount_to_receive = scholarship + tutoring
 print "Scholarship:", scholarship
 print "Tutoring:", tutoring
 print "Total:", amount_to_receive
+
+# Let's see if the changes get pushed to Git.
