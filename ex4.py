@@ -3,7 +3,8 @@ cars = 100
 
 # Space for passengers in a car
 # space_in_a_car = 4.0
-space_in_a_car = 4
+space_in_a_car = 4 # Originally used floating point, but this does not actually
+# change anything about the final results
 
 # Number of drivers
 drivers = 30
