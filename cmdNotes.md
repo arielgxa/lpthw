@@ -3,7 +3,7 @@
 ## Exercise 1: The Setup
 
 1. Use Powershell!
-1. Never type "rm -rf /" (This can destroy your computer)
+1. Never type `rm -rf /` (This can destroy your computer)
 1. Get help from people you trust, not random idiots on the internet
 
 #### Commands to memorize
