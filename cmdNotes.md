@@ -69,6 +69,7 @@ First command `pwd` tells you where you are, second command `cd ~` takes you hom
 
 #### <font color="red"> Question: What does `dir -R` do?</font>
 * Preliminary answer: Seems to list out all directories within the current directory and their subfolders
+* Later answer: Seems to list out all files within the current directory (and I mean ALL of them...)
 
 ## Exercise 7: Remove Directory (`rmdir`)
 
