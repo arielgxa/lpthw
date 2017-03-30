@@ -113,7 +113,7 @@ Makes a new empty file or directory)!
     * Makes a copy of a directory (including files) with a new name within the current directory
 * You can make copies of things in your home directory like this: `cp <filename.format> ~\<newfilename.format>`
 
-Putting a `\` at the end of a directory makes sure that the file really is a directory, so if the directory doesn't exist it'll throw an error
+Putting a `\` at the end of a directory makes sure that the file you're giving it really is a directory, so if the directory doesn't exist it'll throw an error
 
 #### <font color="red">Question: Are `-r` and `-recurse` the same thing?</font>
 * Preliminary answer: It sure seems that way
