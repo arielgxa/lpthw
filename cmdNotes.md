@@ -74,3 +74,10 @@ First command `pwd` tells you where you are, second command `cd ~` takes you hom
 ## Exercise 7: Remove Directory (`rmdir`)
 
 To remove an empty directory, go to the directory right above it and type `rmdir <dir>`
+
+## Exercise 8: Moving Around (pushd, popd)
+
+* `pushd` - Save current location and go to a new one
+* `popd` - Return to the saved location
+
+Works as a stack - `pushd` pushes a directory to the end of the stack, and `popd` pops the last directory in the stack
