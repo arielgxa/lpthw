@@ -112,6 +112,7 @@ Makes a new empty file or directory)!
   *  `cp -r <dir> <newdir>` / `cp -recurse <dir> <newdir>`
     * Makes a copy of a directory (including files) with a new name within the current directory
 * You can make copies of things in your home directory like this: `cp <filename.format> ~\<newfilename.format>`
+* WARNING: Will overwrite files that already exist so be careful copying files around
 
 Putting a `\` at the end of a directory makes sure that the file you're giving it really is a directory, so if the directory doesn't exist it'll throw an error
 
@@ -130,3 +131,9 @@ Putting a `\` at the end of a directory makes sure that the file you're giving i
     * Renames a directory within the current directory
   * `mv <dir> <givendir>`
     * Moves a directory and its contents to given directory
+
+## Exercise 12: View a File (MORE)
+
+* Syntax: `more <filename.format>`
+  * One way to look at the contents of a file, useful because it will "page" the file if it has many lines
+  * Hit spacebar to page through
